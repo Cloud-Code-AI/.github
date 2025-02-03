@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello! We are working on developing an assistant powered by AI to streamline the cloud development process. Our team at Cloudcode AI is excited to share that we have several open-source initiatives underway to achieve our goal.
+Hello! We are working on developing an assistant powered by AI to streamline the cloud development process. Our team at BrowserAI is excited to share that we have several open-source initiatives underway to achieve our goal.
 
 If you have any questions or suggestions, please feel free to reach out to us at oss@cloudcode.ai. Additionally, we are planning to launch a Slack community to enhance communication. Stay tuned for updates on that!
 <!--
