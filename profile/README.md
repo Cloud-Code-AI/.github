@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Hello! We are working on developing an assistant powered by AI to streamline the cloud development process. Our team at BrowserAI is excited to share that we have several open-source initiatives underway to achieve our goal.
+We are currently focused on building BrowserAI - a library that enables anyone to run local LLMs directly in a browser - as well as our no-code platform Browseragent to build and deploy custom AI agents.
 
-If you have any questions or suggestions, please feel free to reach out to us at oss@cloudcode.ai. Additionally, we are planning to launch a Slack community to enhance communication. Stay tuned for updates on that!
+If you have any questions or suggestions, please reach out to us via Discord: https://discord.gg/ZqbxBUxUMw
 <!--
 
 **Here are some ideas to get you started:**
